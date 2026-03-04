@@ -16,11 +16,12 @@
 
 ## Build with FOC
 
-FilOzone provides the core building blocks for app developers and protocol teams:
-- SDKs for integration
-- Services for onchain workflows
-- Payment rails for Filecoin-native apps
-- Proof systems for data possession and verification
+Filecoin Onchain Cloud (FOC) is a programmable, verifiable cloud on Filecoin where storage, retrieval, and payments run via smart contracts.
+
+- [About FOC](https://docs.filecoin.cloud/introduction/about/)
+- [Why FOC](https://docs.filecoin.cloud/introduction/why/)
+- [FOC Architecture](https://docs.filecoin.cloud/core-concepts/architecture/)
+- [Get Started with Synapse SDK](https://docs.filecoin.cloud/getting-started/)
 
 ## Featured Live Demos
 
@@ -73,7 +74,7 @@ FilOzone provides the core building blocks for app developers and protocol teams
 
 ## Start Here
 
-- New to FOC: begin with [synapse-sdk](https://github.com/FilOzone/synapse-sdk)
+- New to FOC: start with [Get Started](https://docs.filecoin.cloud/getting-started/) and then [synapse-sdk](https://github.com/FilOzone/synapse-sdk)
 - Running a Filecoin devnet with the core FOC contract in place: [foc-devnet](https://github.com/FilOzone/foc-devnet)
 - Check out FOC related explorers:
   - [pdp-explorer](https://github.com/FilOzone/pdp-explorer)
