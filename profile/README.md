@@ -67,10 +67,10 @@ Filecoin Onchain Cloud (FOC) is a programmable, verifiable cloud on Filecoin whe
 
 | Project | What it is | Best for |
 |---|---|---|
-| [synapse-sdk](https://github.com/FilOzone/synapse-sdk) | JavaScript SDK for FOC integrations | App developers building quickly |
-| [filecoin-services](https://github.com/FilOzone/filecoin-services) | Service and API layer for core workflows | Backend and platform teams |
-| [filecoin-pay](https://github.com/FilOzone/filecoin-pay) | Payment and settlement primitives | Monetization and billing flows |
-| [pdp](https://github.com/FilOzone/pdp) | Proof of Data Possession contracts and utilities | Verifiable storage workflows |
+| [synapse-sdk](https://github.com/FilOzone/synapse-sdk) | Developer layer SDK for interacting with FOC services and contracts. | Shipping dApps fast without handling low-level contract wiring. |
+| [filecoin-services](https://github.com/FilOzone/filecoin-services) | Service layer contracts and APIs (for example FWSS) for storage and retrieval workflows. | Teams building or operating higher-level storage services. |
+| [filecoin-pay](https://github.com/FilOzone/filecoin-pay) | Settlement layer primitives for token payment rails, lockups, and automated settlement. | Programmable recurring payments tied to service execution. |
+| [pdp](https://github.com/FilOzone/pdp) | Verification layer contracts for Proof of Data Possession (PDP). | Continuous, cryptographic proof that data remains available. |
 
 ## 🛠️ Start Here
 
